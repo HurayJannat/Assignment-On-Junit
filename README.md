@@ -21,4 +21,4 @@ This repository contains a Selenium test automation project using JUnit. The tes
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone <https://github.com/HurayJannat/Assignment-On-Junit/edit/master>
