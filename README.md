@@ -11,7 +11,8 @@ This repository contains a Selenium test automation project using JUnit. The tes
 - `.gitignore` - Specifies files and directories to be ignored by Git.
 
 ## Screenshots:
-  ![image](https://github.com/user-attachments/assets/78e4c9d3-edd5-476e-9bb5-2ac26f202ab8)
+  ![image](https://github.com/user-attachments/assets/4884b717-04f7-4c8d-ba24-357241dd28d1)
+
 
 
 ## Prerequisites
